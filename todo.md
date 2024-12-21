@@ -1,0 +1,3 @@
+- [ ] Update rSpace to not include a long and instead use the length of the string
+- [ ] Complete 'addCommand'
+- [ ] Implement writing to file
