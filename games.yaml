@@ -10,6 +10,9 @@
 # ^ Rico
 # https://steamcommunity.com/profiles/76561199209519817
 
+# The collections are in 'C:\Program Files (x86)\Steam\userdata\1047710596\config\cloudstorage'
+# Seach for '\"name\"' in the file
+
 Buy:
   - Secrets of Grindea
   - Warhammer 40,000: Boltgun
