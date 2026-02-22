@@ -1,6 +1,5 @@
 [
     { "date": "2023-11-21-23-37", "time": "33.9", "name": "Celeste" },
-    { "date": "2023-12-03-02-39", "time": "470.3", "name": "Terraria" },
     { "date": "2023-12-25-23-15", "time": "48.3", "name": "Littlewood" },
     { "date": "2024-01-18-17-22", "time": "23.7", "name": "TimeSpinner" },
     { "date": "2024-02-02-01-12", "time": "27.2", "name": "1001 Spikes" },
@@ -31,5 +30,6 @@
     { "date": "2026-01-19-14-12", "time": "0.3", "name": "Chess Brain" },
     { "date": "2026-01-19-16-22", "time": "0.3", "name": "Monster Girl's Labyrinth" },
     { "date": "2026-01-20-17-13", "time": "0.9", "name": "Awareness Rooms" },
-    { "date": "2026-02-11-16-17", "time": "21.5", "name": "Picross Touch" }
+    { "date": "2026-02-11-16-17", "time": "21.5", "name": "Picross Touch" },
+    { "date": "2026-02-22-00-47", "time": "15.7", "name": "NINJA GAIDEN: Ragebound" }
 ]
