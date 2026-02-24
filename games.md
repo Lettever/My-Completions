@@ -18,7 +18,7 @@ https://steamcommunity.com/groups/tradingcards/discussions/2/604159637570232146/
 https://steamcommunity.com/profiles/76561199209519817
 
 # Local collections
-The collections are in 'C:\Program Files (x86)\Steam\userdata\1047710596\config\cloudstorage'
+The collections are in 'C:\Program Files (x86)\Steam\userdata\1047710596\config\cloudstorage' or '/home/lettever/.steam/debian-installation/userdata/1047710596/config/cloudstorage/cloud-storage-namespace-1.json'
 
 Seach for '\"name\"' in the file
 
