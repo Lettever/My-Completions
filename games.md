@@ -1,17 +1,25 @@
 # Get a lot of points
 TF2 keys: https://steamcommunity.com/market/listings/440/Mann%20Co.%20Supply%20Crate%20Key
+
 Nike profile: https://steamcommunity.com/id/nikesen
+
 1 TF2 key = 12k points
 
 https://steamcommunity.com/groups/tradingcards/discussions/2/600764291186963309/
+
 https://steamcommunity.com/groups/tradingcards/discussions/2/3810661765911157970/
+
 ^ nikesen
+
 https://steamcommunity.com/groups/tradingcards/discussions/2/604159637570232146/#c604159978054434387
+
 ^ Rico
+
 https://steamcommunity.com/profiles/76561199209519817
 
 # Local collections
 The collections are in 'C:\Program Files (x86)\Steam\userdata\1047710596\config\cloudstorage'
+
 Seach for '\"name\"' in the file
 
 # Games
