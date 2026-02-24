@@ -29,6 +29,7 @@ Buy:
   - BLUE REVOLVER
   - La-Mulana
   - La-Mulana 2
+
 Try:
   - Teenage Mutant Ninja Turtles: Shredder's Revenge
   - Creature Keeper
@@ -52,5 +53,6 @@ Try:
   - Klaroro - Abyss of the Soul
   - Wendigo Blue
   - Teenage Mutant Ninja Turtles: The Cowabunga Collection
+
 Tried, didnt like it:
   - Rhythm Doctor
