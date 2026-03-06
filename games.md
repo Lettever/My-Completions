@@ -54,3 +54,6 @@ Try:
 
 Tried, didnt like it:
   - Rhythm Doctor
+
+PC cant handle:
+  - to add
