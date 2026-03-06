@@ -31,7 +31,6 @@ Buy:
   - La-Mulana 2
 
 Try:
-  - Teenage Mutant Ninja Turtles: Shredder's Revenge
   - Creature Keeper
   - Monster Crown
   - Hole Dweller
@@ -42,7 +41,6 @@ Try:
   - Tower Wizard
   - While the Iron's Hot
   - Star Rift Saga
-  - Spirit Valley
   - Barony
   - Crypt Custodian
   - Hotime Saga
