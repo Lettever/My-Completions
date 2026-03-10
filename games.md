@@ -27,8 +27,6 @@ Buy:
   - Secrets of Grindea
   - Warhammer 40,000: Boltgun
   - BLUE REVOLVER
-  - La-Mulana
-  - La-Mulana 2
 
 Try:
   - Creature Keeper
